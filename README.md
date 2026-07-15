@@ -23,11 +23,11 @@ Pre-final year CSE student passionate about building end-to-end products — fro
 
 ### 🚀 Featured Projects
 
-**[MeetFlow](https://github.com/vandana-kumari4/REPLACE_WITH_REPO_NAME)**
+**[MeetFlow](https://github.com/vandana-kumari4/MeetFlow)**
 Full-stack real-time video calling platform with WebRTC, live captions, AI-generated chat summaries (Hugging Face), and TensorFlow.js background blur.
 `React` `Node.js` `Socket.io` `WebRTC` `MongoDB Atlas`
 
-**[SkillSphere](https://github.com/vandana-kumari4/REPLACE_WITH_REPO_NAME)**
+**[SkillSphere](https://github.com/vandana-kumari4/-skill-catalog-service)**
 Team-built skill catalog application with feature-branch collaborative workflow.
 `Spring Boot` `Java` `SQL Server` `Maven`
 
