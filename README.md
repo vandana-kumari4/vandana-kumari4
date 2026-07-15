@@ -4,7 +4,9 @@
 <p align="center">
 Pre-final year CSE student passionate about building end-to-end products — from AI-powered applications to full-stack web platforms. Currently exploring the intersection of AI and scalable software engineering.
 </p>
-
+<p align="center">
+🚀 Currently interning at <b>Infosys Springboard</b> (Virtual) | Previously interned as Programming Architect Intern @ Salesforce
+</p>
 ---
 
 ### 🛠️ Tech Stack
